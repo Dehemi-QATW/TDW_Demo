@@ -87,6 +87,11 @@ div.content {
     line-height:1.5em;
 
 }
+
+.boxed {
+  border: 1px solid green ;
+}
+
 div.content ul, div.content p {
     margin:0;
     padding:3px;
