@@ -107,3 +107,8 @@ div.content ul li a {
 code {
     overflow:auto;
 }
+div.pagecontent{
+	width:1000px;
+	height:300px;
+	border:3px solid red;
+}
