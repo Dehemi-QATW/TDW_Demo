@@ -36,6 +36,7 @@ h2{
 	padding:1%;
 }
 
+
 #navigation,
 #content {
     float:left;
@@ -105,4 +106,9 @@ div.content ul li a {
 
 code {
     overflow:auto;
+}
+div.pagecontent{
+	width:500px;
+	height:300px;
+	border:3px solid red;
 }
