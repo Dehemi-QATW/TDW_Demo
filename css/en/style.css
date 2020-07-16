@@ -108,7 +108,7 @@ code {
     overflow:auto;
 }
 div.pagecontent{
-	width:500px;
+	width:1000px;
 	height:300px;
 	border:3px solid red;
 }
